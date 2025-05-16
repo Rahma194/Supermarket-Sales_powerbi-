@@ -14,6 +14,7 @@ _Average Rating
 📌Multi-dimensional Analysis By branch, gender, customer type, product line, and payment method.
 
 📊 Features:
+
 _Interactive slicers for flexible filtering.
 
 _Visual comparisons across branches and product categories.
